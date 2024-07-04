@@ -48,4 +48,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Percy Mdluli** - [felipesv](https://github.com/Percy-M93)
+* **Percy Mdluli** - [Percy-M93](https://github.com/Percy-M93)
